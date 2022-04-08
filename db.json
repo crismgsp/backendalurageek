@@ -144,6 +144,28 @@
             "preco": 240,
             "descricao": "Boneco de pelúcia do Pikachu, antialérgico.",
             "categoria": "Diversos"
+        },
+        
+        {
+            "nome": "teste",
+            "categoria": "teste",
+            "preco": "teste",
+            "descricao": "enviando da pagina adicionaproduto para https...localhost....",
+            "id": 19
+        },
+        {
+            "nome": "teste",
+            "categoria": "teste2",
+            "preco": "45",
+            "descricao": "enviar novamente",
+            "id": 20
+        },
+        {
+            "nome": "travesseiro teste insercao",
+            "categoria": "cama mesa e banho",
+            "preco": "56,00",
+            "descricao": "travesseiro testando insercao",
+            "id": 21
         }
 
     ]
